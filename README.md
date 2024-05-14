@@ -1,1 +1,1 @@
-# my-portfolio
+This portfolio is a foundational implementation built with HTML.
